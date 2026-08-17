@@ -1,5 +1,5 @@
 <h1 align="center">hey, i'm Debansh 👋</h1>
-<h3 align="center">🚀 backend + AI builder | final-year CSE student</h3>
+<h3 align="center">🚀 backend + AI builder | Btech Computer Science Fresher</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-shipping_projects-brightgreen?style=for-the-badge" />
