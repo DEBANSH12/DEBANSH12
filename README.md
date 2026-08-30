@@ -8,7 +8,7 @@
 ---
 
 ### ⚡ quick facts
-- 🎓 final-year B.Tech CSE @ SOA University, Bhubaneswar
+- 🎓  B.Tech CSE Graduate from SOA University, Bhubaneswar
 - 🛠️ building with Java, Python & JavaScript
 - 🤖 into backend systems + AI/LLM integration
 - 🐧 linux automation nerd
