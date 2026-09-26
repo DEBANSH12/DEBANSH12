@@ -15,7 +15,7 @@
 <br/><br/>
 
 <a href="https://github.com/DEBANSH12">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=CCFF00&center=true&vCenter=true&width=560&lines=shipping+AI+agents+%26+backend+systems;fine-tuning+LLMs+on+low-resource+languages;automating+everything+I+get+tired+of+doing+by+hand;open+to+SDE+%2F+SDET+roles+%E2%80%94+let's+talk" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=CCFF00&center=true&vCenter=true&width=650&lines=shipping+AI+agents+%26+backend+systems;fine-tuning+LLMs+on+low-resource+languages;automating+the+chores+I'm+tired+of+doing+by+hand;open+to+SDE+%2F+SDET+roles+%E2%80%94+let's+talk" />
 </a>
 
 </div>
