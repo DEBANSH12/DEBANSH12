@@ -81,13 +81,13 @@ on a custom 17K+ dataset
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Linux Automation Suite
-Bash + Cron suite for backups, updates & cleanups — with a self-testing error-handling layer.
+### 📚 Library Management REST API
+Layered Spring Boot REST API with 5 CRUD endpoints and centralized exception handling via `RestControllerAdvice`.
 
-`Bash` `Cron` `Shell`
+`Java 17` `Spring Boot` `JPA`
 
-**70% faster** maintenance
-**60% less** manual QA effort
+**5 CRUD endpoints**
+25+ records tested via Postman
 
 </td>
 </tr>
