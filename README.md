@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:CCFF00&height=200&section=header&text=Hey,%20I'm%20Debansh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20+%20AI%20Builder%20·%20B.Tech%20CSE%20Graduate&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://claude.ai/artifact/DcqMcfRV7KnDrhghsHgekP">
+<a href="https://debansh12.github.io/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-View_Site-CCFF00?style=for-the-badge&labelColor=0a0a0f" />
 </a>
 <a href="mailto:pandadebansh@gmail.com">
