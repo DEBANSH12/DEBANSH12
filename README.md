@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:FF3D81,100:CCFF00&height=210&section=header&text=Hey,%20I'm%20Debansh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20+%20AI%20Builder%20·%20B.Tech%20CSE%20Graduate&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:FF3D81,100:CCFF00&height=210&section=header&text=Hey,%20I'm%20Debansh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20+%20Data%20+%20AI%20Builder%20·%20B.Tech%20CSE%202026%20Grad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://debansh12.github.io/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-View_Site-CCFF00?style=for-the-badge&labelColor=0a0a0f" />
@@ -16,14 +16,14 @@
 <br/><br/>
 
 <a href="https://github.com/DEBANSH12">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=CCFF00&center=true&vCenter=true&width=680&lines=shipping+AI+agents+%26+backend+systems;fine-tuning+LLMs+on+low-resource+languages;automating+the+chores+I'm+tired+of+doing+by+hand;open+to+SDE+%2F+SDET+roles+%E2%80%94+let's+talk!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=CCFF00&center=true&vCenter=true&width=720&lines=shipping+scalable+ETL+pipelines+%26+FastAPI+backends;fine-tuning+LLMs+%26+low-resource+Odia+NLP+models;automating+chaos+with+PySpark,+Docker,+%26+Bash;open+to+SDE+%2F+Data+Engineering+roles+%E2%80%94+let's+cook!" />
 </a>
 
 </div>
 
 <br/>
 
-## ⚡ quick facts
+## ⚡ // quick_facts.sh
 
 <table align="center">
 <tr>
@@ -32,20 +32,19 @@
 **🎓 Education**  
 B.Tech, Computer Science & Engineering  
 Siksha 'O' Anusandhan (ITER), Bhubaneswar  
-`Graduated · July 2026 · CGPA 7.45`
+`Graduated · Aug 2026 · CGPA 7.45`[cite: 1, 2, 3]
 
 **📍 Based in**  
-Sambalpur, Odisha, India 🇮🇳
+Sambalpur, Odisha, India 🇮🇳[cite: 1, 2, 3]
 
 </td>
 <td width="50%" valign="top">
 
-**🛠️ Currently**  
-Building with Java, Python & JavaScript  
-Deep in backend systems + AI/LLM integration  
+**🛠️ Currently Cooking**  
+Distributed ETL pipelines, FastAPI microservices, & LLM agent workflows[cite: 1, 3]
 
-**🐧 Also**  
-A Linux automation nerd who scripts away chores  
+**🐧 Vibe**  
+Turning messy data into pristine parquet & automated cron jobs[cite: 1]
 
 </td>
 </tr>
@@ -53,42 +52,56 @@ A Linux automation nerd who scripts away chores
 
 <br/>
 
-## 🔥 things i've built
+## 🔥 // core_projects.exe
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧭 CareerCompass AI
-AI career guide for tier-2/3 engineering students. LLM-powered role matching across 16 job families, grounded with RAG.
+> *AI Career Navigation Platform*
+* Engineered an LLM-powered guidance workflow in Streamlit, grounding Gemini prompts with RAG to match roles across 16 families in 6 branches[cite: 1, 2, 3].
+* Integrated Sarvam AI REST API into a multi-lingual voice/translation pipeline supporting 11 languages, Hinglish, and 29 voices[cite: 1, 2, 3].
+* 🏆 Shortlisted among 200+ candidates across Odisha for the **HCLTech Sovereign AI Hackathon**[cite: 1, 2, 3].
 
-`Streamlit` `Gemini API` `RAG`
+`Python` `Streamlit` `Gemini API` `Sarvam AI` `RAG`[cite: 1, 2, 3]
 
-**[→ Live Demo](https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/)**
-
-🏆 Built solo for HCLTech's Sovereign AI Hackathon
+**[→ Live Demo](https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/)**[cite: 1, 2, 3]
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌾 Odia NER Model
-Fine-tuned XLM-RoBERTa for named entity recognition on a low-resource language — agricultural query understanding.
+> *Low-Resource Agricultural NLP Engine*
+* Fine-tuned and implemented XLM-ROBERTa on a custom 17K+ BIO-tagged token dataset[cite: 1, 2, 3].
+* Achieved **90.8% F1-score** and **97.3% accuracy** in parsing unstructured queries[cite: 1, 2, 3].
+* Built a knowledge-base mapping layer to resolve entities into structured data schemas[cite: 1, 2, 3].
 
-`PyTorch` `Hugging Face` `NLP`
-
-**90.8% F1** · 97.3% accuracy  
-on a custom 17K+ dataset
+`PyTorch` `XLM-ROBERTa` `Hugging Face` `Pandas`[cite: 1, 2, 3]
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📚 Library Management REST API
-Layered Spring Boot REST API with 5 CRUD endpoints and centralized exception handling via `RestControllerAdvice`.
+### ⚡ Retail Orders ETL Pipeline
+> *Big Data Batch Processing & CDC*
+* Built a PySpark pipeline processing **20.2K orders**, quarantining 419 invalid rows, and cleaning duplicates[cite: 1].
+* Loaded **19.6K clean records** into partitioned Parquet tables with custom validation logic[cite: 1].
+* Implemented Change Data Capture (CDC) logic for a 1.4K-row customer table with Cron run locking and 10 unit tests[cite: 1].
 
-`Java 17` `Spring Boot` `JPA`
+`Python` `PySpark` `Parquet` `Bash` `Cron` `pytest`[cite: 1]
 
-**5 CRUD endpoints**  
-25+ records tested via Postman
+</td>
+<td width="50%" valign="top">
+
+### 📊 Attendance & Analytics API
+> *High-Performance FastAPI Service*
+* Developed **12 FastAPI REST endpoints** for attendance tracking and analytics using MongoDB aggregation pipelines[cite: 3].
+* Handled strict schema enforcement with Pydantic validation and tested unique indexes across **120K documents**[cite: 3].
+* Squashed 21 starter defects and verified robustness with **68 comprehensive pytest tests**[cite: 3].
+
+`Python` `FastAPI` `MongoDB` `Pydantic` `pytest`[cite: 3]
 
 </td>
 </tr>
@@ -96,40 +109,51 @@ Layered Spring Boot REST API with 5 CRUD endpoints and centralized exception han
 
 <br/>
 
-## 🧰 tech i vibe with
+## 🧰 // tech_stack & toolchain
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,react,nodejs,spring,aws,docker,postgres,mongodb,git,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,sql,bash,js,ts,fastapi,spring,react,nodejs,postgres,mongodb,docker,aws,git,linux&theme=dark" />
 
 <br/><br/>
 
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**Languages & Core:** Python, Java, SQL, Bash, JavaScript, TypeScript, C++, PowerShell[cite: 1, 2, 3]  
+**Backend & APIs:** FastAPI, Spring Boot, Hibernate, REST APIs, Pydantic, Spring Data JPA[cite: 1, 2, 3]  
+**Data Engineering:** PySpark, ETL Pipelines, CDC, Parquet, Batch Processing, Data Validation[cite: 1, 2, 3]  
+**AI & ML:** LangChain, Hugging Face, PyTorch, TensorFlow, Gemini API, OpenAI API, RAG, MCP[cite: 1, 2, 3]  
+**Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Oracle, AWS (EC2, S3, RDS), Docker, Jenkins, Kubernetes, Terraform[cite: 1, 2, 3]  
+**Testing & Tools:** pytest, JUnit, Postman, Selenium, Git, Linux, Bash, Cron[cite: 1, 2, 3]
 
 </div>
 
 <br/>
 
-## 🏆 wins
+## 🏆 // wins & certifications
 
 <table>
 <tr>
 <td width="50%">
 
-🥇 **Shortlisted — Top 200+ across Odisha**  
-HCLTech GET Sovereign AI Hackathon
+🥇 **Shortlisted (Top 200+ across Odisha)**  
+HCLTech 2026 GET Sovereign AI Hackathon[cite: 1, 2, 3]
+
+📊 **Top 10% Batch Ranking**  
+SOA ITER DevOps Internals Training Program[cite: 1, 2, 3]
+
+⭐ **Grade 'A' Scorer**  
+MyAnatomy National Competence & Employability Test[cite: 1, 2, 3]
 
 </td>
 <td width="50%">
 
-📊 **Top 10% of 1,000+ candidates**  
-SOA ITER DevOps Internals Training Program
+📜 **Oracle Agentic AI Foundations Associate**  
+Certified by Oracle (2026)[cite: 1, 2, 3]
+
+📜 **DevOps Internals Certification**  
+SOA University (2025)[cite: 1, 2, 3]
+
+📜 **HackerRank Certifications**  
+Python Basic (2026) & Java Basic (2024)[cite: 1, 2, 3]
 
 </td>
 </tr>
@@ -137,7 +161,7 @@ SOA ITER DevOps Internals Training Program
 
 <br/>
 
-## 📊 github stats & analytics
+## 📊 // github_metrics & analytics
 
 <div align="center">
 
@@ -154,7 +178,7 @@ SOA ITER DevOps Internals Training Program
 
 <div align="center">
 
-### 📬 let's build something real
+### 📬 // let's_connect()
 
 <a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/Email-pandadebansh%40gmail.com-CCFF00?style=for-the-badge&logo=gmail&logoColor=0a0a0f&labelColor=0a0a0f" /></a>
 <a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LinkedIn-Debansh_Panda-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f" /></a>
