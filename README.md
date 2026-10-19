@@ -1,72 +1,68 @@
-<!-- ═══════════════════ HERO ═══════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=DEBANSH%20PANDA&fontSize=58&fontColor=CCFF00&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&desc=BACKEND%20ENGINEERING%20%2F%2F%20AI%20SYSTEMS%20%2F%2F%20AUTOMATION&descSize=14&descAlignY=70&color=0:09090F,50:17132A,100:09090F" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=DEBANSH%20PANDA&fontSize=65&fontColor=CCFF00&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&desc=I%20BUILD%20THINGS%20THAT%20SHOULDN%27T%20EXIST%20YET.&descSize=14&descAlignY=72&color=0:050509,50:17112B,100:050509" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=CCFF00&center=true&vCenter=true&repeat=true&width=750&height=50&lines=%3E+backend+systems+that+scale;%3E+AI+that+actually+does+something;%3E+automation+because+life+is+too+short;%3E+ship.+break.+debug.+repeat." alt="Typing animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=CCFF00&center=true&vCenter=true&repeat=true&width=700&height=45&lines=building+things+that+actually+work+%E2%9A%A1;backend+systems+%2B+AI+%2B+automation;turning+coffee+into+commits+%F0%9F%92%BB;less+talk.+more+shipping.+%F0%9F%9A%80" alt="Developer tagline"/>
-
-<br/>
-
-<a href="https://debansh12.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-CCFF00?style=for-the-badge&logo=firefoxbrowser&logoColor=09090F" /></a>
-<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FF3D81?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/DEBANSH12"><img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=CCFF00" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-CCFF00?style=for-the-badge&labelColor=0A0A0F"/>
+<img src="https://img.shields.io/badge/BASE-ODISHA%2C_IN-8B5CF6?style=for-the-badge&labelColor=0A0A0F"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-FF3D81?style=for-the-badge&labelColor=0A0A0F"/>
 
 <br/><br/>
 
-`[ STATUS: BUILDING ]` &nbsp; ` [ MODE: ALWAYS LEARNING ]` &nbsp; `[ LOCATION: INDIA ]`
+<a href="https://debansh12.github.io/"><img src="https://img.shields.io/badge/%E2%86%97%20ENTER%20MY%20PORTFOLIO-CCFF00?style=for-the-badge&labelColor=0A0A0F"/></a>
+<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F"/></a>
+
+<br/><br/>
+
+<sub>COMPUTER SCIENCE GRADUATE · BACKEND ENGINEERING · AI SYSTEMS</sub>
 
 </div>
 
 ---
 
-## `01 // WHOAMI`
+<div align="center">
 
-```python
-class DebanshPanda:
-    def __init__(self):
-        self.role = "Backend + AI Engineer"
-        self.education = "B.Tech CSE | SOA ITER"
-        self.location = "Odisha, India"
+## `// NOT JUST ANOTHER DEVELOPER README`
 
-        self.interests = [
-            "Backend Systems",
-            "AI / LLM Applications",
-            "Developer Automation",
-            "Clean Architecture",
-        ]
+**I like building things that solve actual problems.**
 
-        self.current_focus = [
-            "Building practical software",
-            "Exploring AI-powered systems",
-            "Writing better, cleaner code",
-        ]
+</div>
 
-    def motto(self):
-        return "Understand the why. Build the how. Ship the thing."
+I’m Debansh — a Computer Science graduate who likes going beyond the surface: understanding what happens behind an API, making messy data usable, and giving AI a purpose beyond generating text.
 
+I build backend services, experiment with LLM-powered applications, and automate the boring stuff whenever possible.
 
-me = DebanshPanda()
+```text
+┌─ DEBANSH@DEVBOX ──────────────────────────┐
+│                                           │
+│  CURRENT OBSESSION                        │
+│  ├── Backend engineering                  │
+│  ├── AI-powered applications              │
+│  ├── Automation & developer tooling       │
+│  └── Learning how systems work under hood │
+│                                           │
+│  PHILOSOPHY                               │
+│  └── Less tutorial hell. More shipping.   │
+│                                           │
+└───────────────────────────────────────────┘
 ```
 
-I'm a Computer Science graduate who enjoys building practical software at the intersection of **backend engineering, AI, and automation**.
+🎓 B.Tech CSE · SOA ITER, Bhubaneswar · CGPA 7.45
 
-I like understanding how things work under the hood, turning messy problems into clean solutions, and building projects that do more than just look good in a demo.
+📍 Sambalpur, Odisha, India
 
-**Currently looking for:** Backend SDE · Software Engineer · SDET opportunities.
+🎯 Looking for Backend SDE · Software Engineer · SDET opportunities
 
 ---
 
-## `02 // FEATURED BUILDS`
+## `// SELECTED_WORK.exe`
 
 <div align="center">
 
-<a href="https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/">
-<img src="https://img.shields.io/badge/01_CAREERCOMPASS_AI-OPEN_LIVE_DEMO-CCFF00?style=for-the-badge&labelColor=11111B&logo=streamlit&logoColor=CCFF00"/>
-</a>
+<sub>FOUR BUILDS. DIFFERENT PROBLEMS. ONE VERY CURIOUS DEVELOPER.</sub>
 
 </div>
 
@@ -74,67 +70,71 @@ I like understanding how things work under the hood, turning messy problems into
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 CareerCompass AI
+<a href="https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/">
 
-**AI that helps students navigate careers.**
+<img src="https://img.shields.io/badge/01-CAREERCOMPASS_AI-CCFF00?style=for-the-badge&labelColor=101014"/>
 
-An AI-powered career guidance platform built for engineering students from Tier-2 and Tier-3 colleges.
+</a>
 
-- Role matching across 16 career families and 6 engineering branches.
-- RAG-grounded LLM guidance.
-- Voice and translation workflow supporting 11 languages.
+### 🧠 Helping students find their next move.
 
-`Python` `Streamlit` `Gemini API` `RAG` `Sarvam AI`
+An AI career guidance platform built for engineering students who need clearer career direction.
 
-[↗ Launch project](https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/)
+- LLM-powered guidance grounded with RAG.
+- 16 career families across 6 engineering branches.
+- Voice and translation workflow across 11 languages.
+
+`PYTHON` `RAG` `GEMINI` `STREAMLIT`
+
+<a href="https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/">↗ TRY IT LIVE</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Odia NER Model
+<img src="https://img.shields.io/badge/02-ODIA_NER_MODEL-8B5CF6?style=for-the-badge&labelColor=101014"/>
 
-**Making unstructured language useful.**
+### 🌾 Teaching AI to understand Odia.
 
-Fine-tuned XLM-RoBERTa for named entity recognition in agricultural queries using a low-resource Odia-language dataset.
+Fine-tuned XLM-RoBERTa to extract entities from agricultural queries in a low-resource language.
 
 - 17K+ BIO-tagged dataset.
 - 90.8% F1-score.
 - 97.3% accuracy.
 
-`Python` `PyTorch` `Hugging Face` `NLP`
+`PYTHON` `PYTORCH` `HUGGING FACE` `NLP`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Retail Orders ETL Pipeline
+<img src="https://img.shields.io/badge/03-RETAIL_ETL_PIPELINE-FF3D81?style=for-the-badge&labelColor=101014"/>
 
-**Messy data in. Clean data out.**
+### ⚙️ Dirty data doesn't stand a chance.
 
-A PySpark pipeline for transforming order data, validating records, handling duplicates, and generating structured outputs.
+A PySpark pipeline that cleans and transforms retail order data into structured Parquet outputs.
 
 - Processed 20.2K orders.
 - Quarantined 419 invalid rows.
 - Removed 197 duplicates.
-- Implemented CDC for a customer dataset.
+- Implemented CDC for customer records.
 
-`PySpark` `SQL` `Parquet` `Pandas` `pytest`
+`PYSPARK` `SQL` `PARQUET` `PANDAS`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔌 Library Management REST API
+<img src="https://img.shields.io/badge/04-LIBRARY_REST_API-CCFF00?style=for-the-badge&labelColor=101014"/>
 
-**Small API. Clean structure.**
+### 📚 Clean endpoints. Predictable behavior.
 
-A layered REST API built with Java and Spring Boot, with CRUD operations and centralized exception handling.
+A layered REST API with CRUD operations and centralized exception handling.
 
 - 5 CRUD endpoints.
 - Tested success, not-found, and validation-failure cases.
 - Verified behavior across 25+ records.
 
-`Java 17` `Spring Boot` `JPA` `Hibernate` `Postman`
+`JAVA 17` `SPRING BOOT` `JPA` `POSTMAN`
 
 </td>
 </tr>
@@ -142,65 +142,59 @@ A layered REST API built with Java and Spring Boot, with CRUD operations and cen
 
 ---
 
-## `03 // TECH STACK`
+## `// MY LOADOUT`
 
 <div align="center">
 
-### `LANGUAGES`
+<sub>TOOLS I USE TO TURN IDEAS INTO WORKING SOFTWARE</sub>
+
+<br/><br/>
+
+### `01 — LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=java,py,js,ts,bash,cpp&theme=dark" />
 
-<br/><br/>
-
-### `BACKEND // DATABASES`
+### `02 — BACKEND & DATA`
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,django,postgres,mysql,mongodb&theme=dark" />
 
-<br/><br/>
-
-### `AI // DATA`
+### `03 — AI / ML`
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
-<br/><br/>
-
-### `DEVOPS // TOOLING`
+### `04 — DEVOPS & TOOLING`
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,jenkins,kubernetes,vscode&theme=dark" />
 
-</div>
-
 <br/>
 
-<div align="center">
-
 ![REST APIs](https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-CCFF00?style=flat-square&labelColor=171717)
+![ETL](https://img.shields.io/badge/ETL-CCFF00?style=flat-square&labelColor=111111)
 ![RAG](https://img.shields.io/badge/RAG-FF3D81?style=flat-square)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-8B5CF6?style=flat-square)
-![Automated Testing](https://img.shields.io/badge/Automated_Testing-CCFF00?style=flat-square&labelColor=171717)
-![SQL](https://img.shields.io/badge/SQL-FF3D81?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square)
+![Testing](https://img.shields.io/badge/TESTING-CCFF00?style=flat-square&labelColor=111111)
+![LLMs](https://img.shields.io/badge/LLM_INTEGRATION-FF3D81?style=flat-square)
 
 </div>
 
 ---
 
-## `04 // ACHIEVEMENTS_UNLOCKED`
+## `// ACHIEVEMENTS_UNLOCKED`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/ACHIEVEMENT-01-CCFF00?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/UNLOCKED-01-CCFF00?style=for-the-badge&labelColor=0A0A0F"/>
 
-### 🏆 HCLTech Sovereign AI Hackathon
+### 🏆 HCLTech Hackathon
 
 Shortlisted among 200+ candidates across Odisha for the 2026 GET Sovereign AI Hackathon.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<img src="https://img.shields.io/badge/ACHIEVEMENT-02-8B5CF6?style=flat-square&labelColor=171717"/>
+<img src="https://img.shields.io/badge/UNLOCKED-02-8B5CF6?style=for-the-badge&labelColor=0A0A0F"/>
 
 ### 📈 Top 10% Performer
 
@@ -212,48 +206,38 @@ Ranked in the top 10% of 1,000+ candidates in SOA ITER's DevOps Internals Progra
 
 ---
 
-## `05 // GITHUB_ACTIVITY`
+## `// GITHUB — LIVE TELEMETRY`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DEBANSH12&show_icons=true&hide_border=true&bg_color=09090F&title_color=CCFF00&icon_color=FF3D81&text_color=E4E4E7&ring_color=8B5CF6" alt="GitHub stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEBANSH12&show_icons=true&hide_border=true&bg_color=08080D&title_color=CCFF00&icon_color=FF3D81&text_color=E4E4E7" alt="GitHub statistics"/>
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=DEBANSH12&hide_border=true&background=09090F&ring=CCFF00&fire=FF3D81&currStreakLabel=CCFF00&sideLabels=8B5CF6&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DEBANSH12&hide_border=true&background=08080D&ring=CCFF00&fire=FF3D81&currStreakLabel=CCFF00&sideLabels=8B5CF6&dates=9CA3AF" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEBANSH12&bg_color=09090F&color=CCFF00&line=8B5CF6&point=FF3D81&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEBANSH12&bg_color=08080D&color=CCFF00&line=8B5CF6&point=FF3D81&area=true&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
 ---
 
-## `06 // BEYOND_THE_TERMINAL`
-
-- 🧩 Enjoy debugging problems and figuring out why things break.
-- 🐧 Interested in Linux, scripting, and making repetitive tasks disappear.
-- 🤖 Exploring practical applications of LLMs and AI tools.
-- 🛠️ Prefer building something real over collecting another tutorial.
-
----
-
-## `07 // ESTABLISH_CONNECTION`
-
 <div align="center">
 
-### Got an interesting problem? Let's build something.
+## `// END_OF_FILE`
 
-Open to conversations about backend engineering, AI applications, and software development opportunities.
+### Have a problem worth solving?
 
-<br/>
+I'm always interested in building useful things, learning from good engineers, and exploring new ideas.
 
-<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-CCFF00?style=for-the-badge&logo=gmail&logoColor=09090F" /></a>
-<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ME-CCFF00?style=for-the-badge&logo=gmail&logoColor=0A0A0F&labelColor=0A0A0F"/></a>
+<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_TALK-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0F"/></a>
+<a href="https://github.com/DEBANSH12"><img src="https://img.shields.io/badge/GITHUB-FOLLOW_THE_BUILD-FF3D81?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0F"/></a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CCFF00,50:8B5CF6,100:FF3D81&height=120&section=footer" width="100%"/>
 
-<sub>Designed in dark mode. Powered by curiosity. Built one commit at a time.</sub>
+<sub>NO FAKE HUSTLE. JUST CURIOSITY, CODE & CONSISTENCY. ⚡</sub>
 
 </div>
