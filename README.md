@@ -1,374 +1,340 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=DEBANSH%20PANDA&fontSize=62&fontColor=CCFF00&stroke=8B5CF6&strokeWidth=2&animation=fadeIn&desc=AI%20BUILDER%20%2F%2F%20BACKEND%20ENGINEER%20%2F%2F%20DATA%20SYSTEMS&descSize=14&descAlignY=72&color=0:080812,50:17112B,100:080812" alt="Debansh Panda — developer profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=DEBANSH%20PANDA&fontSize=64&fontColor=CCFF00&fontAlignY=38&stroke=8B5CF6&strokeWidth=2&desc=AI%20BUILDER%20%2F%2F%20BACKEND%20ENGINEER%20%2F%2F%20DATA%20SYSTEMS&descSize=16&descColor=FFFFFF&descAlignY=60&color=0:0D1117,45:2A1B5E,100:FF3D81&animation=fadeIn" alt="Debansh Panda banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=CCFF00&center=true&vCenter=true&width=820&height=40&lines=%3E+Turning+ideas+into+working+systems;%3E+Building+AI+that+speaks+your+language;%3E+Cleaning+data.+Engineering+APIs.+Shipping.;%3E+B.Tech+CSE+%7C+Class+of+2026+%7C+Open+to+work" alt="Typing intro"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=CCFF00&center=true&vCenter=true&width=800&lines=Turning+ideas+into+working+systems.;Building+AI+that+speaks+your+language.;Cleaning+data.+Engineering+APIs.+Shipping+projects.;Less+talk.+More+build.+More+iterations." alt="Animated developer introduction"/>
+<a href="https://debansh12.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=CCFF00" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/></a>
+<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF3D81" alt="Email"/></a>
+<a href="https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0D1117?style=for-the-badge&logo=streamlit&logoColor=8B5CF6" alt="Live demo"/></a>
 
-<br/><br/>
+<br/>
 
-<a href="https://debansh12.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-080812?style=for-the-badge&logo=vercel&logoColor=CCFF00" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LINKEDIN-080812?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://github.com/DEBANSH12"><img src="https://img.shields.io/badge/GITHUB-080812?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080812?style=for-the-badge&logo=gmail&logoColor=FF3D81" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-CCFF00?style=flat-square&labelColor=080812" alt="Status: building"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20BACKEND-8B5CF6?style=flat-square&labelColor=080812" alt="Focus: AI and backend"/>
-<img src="https://img.shields.io/badge/LOCATION-ODISHA%2C%20INDIA-FF3D81?style=flat-square&labelColor=080812" alt="Location: Odisha, India"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-CCFF00?style=flat-square&labelColor=0D1117" alt="Open to work"/>
+<img src="https://img.shields.io/badge/FOCUS-AI_%2B_BACKEND_%2B_DATA-8B5CF6?style=flat-square&labelColor=0D1117" alt="Focus"/>
+<img src="https://img.shields.io/badge/BASE-ODISHA%2C_INDIA-FF3D81?style=flat-square&labelColor=0D1117" alt="Location"/>
+<img src="https://komarev.com/ghpvc/?username=DEBANSH12&style=flat-square&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## `01 // SYSTEM.IDENTITY`
-
-<img align="right" width="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBANSH12&layout=donut&theme=transparent&hide_border=true&title_color=CCFF00&text_color=C9D1D9&bg_color=080812&langs_count=6" alt="Most-used languages by repository"/>
+## `> whoami`
 
 ```yaml
 developer:
-  name: Debansh Panda
-  role: Software Engineer | AI Builder
-  education: B.Tech Computer Science & Engineering
-  university: SOA ITER, Bhubaneswar
-  graduation: August 2026
-  location: Odisha, India
+  name:        Debansh Panda
+  role:        Software Engineer | AI Builder
+  education:   B.Tech, Computer Science & Engineering   # SOA ITER, Bhubaneswar
+  graduated:   August 2026
+  base:        Odisha, India
 
-interests:
-  - Applied AI and LLM applications
-  - Backend engineering and REST APIs
-  - Data engineering and ETL pipelines
-  - Natural language processing
-  - Cloud and developer tooling
+stack_focus:
+  - Applied AI & LLM apps (RAG, voice, multilingual)
+  - Backend engineering (Java/Spring Boot, FastAPI, Go)
+  - Data engineering (PySpark, ETL, CDC)
+  - NLP for low-resource languages
 
-mindset:
+principles:
   - Build useful things
   - Validate with evidence
-  - Automate repetitive work
+  - Automate the repetitive
   - Learn by shipping
+
+seeking: [Software Engineering, Backend Development, Applied AI/ML, Data Engineering]
 ```
 
-I'm a Computer Science graduate interested in the intersection of **software engineering, applied AI, and data infrastructure**.
+I build systems that take messy real-world input, validate it, connect services, and turn it into something useful: from a multilingual AI career coach to an Odia-language NER model, PySpark pipelines, and production-style REST APIs.
 
-I enjoy building systems that process real inputs, validate information, connect services, and turn raw data into something useful.
+<br/>
 
-My projects range from multilingual AI career guidance and Odia-language NLP to PySpark data pipelines and backend APIs built with Go and Java.
-
-**Looking for opportunities in:** Software Engineering · Backend Development · Applied AI/ML · Data Engineering
-
-<br clear="right"/>
-
----
-
-## `02 // LIVE.TELEMETRY`
+## `> impact --metrics`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEBANSH12&show_icons=true&hide_border=true&bg_color=080812&title_color=CCFF00&icon_color=8B5CF6&text_color=C9D1D9&ring_color=FF3D81&include_all_commits=true" alt="GitHub profile statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=DEBANSH12&hide_border=true&background=080812&ring=CCFF00&fire=FF3D81&currStreakLabel=CCFF00&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777788" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/90.8%25-F1_SCORE_ODIA_NER-CCFF00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/17K%2B-BIO--TAGGED_SAMPLES-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/11-LANGUAGES_%2B_29_VOICES-FF3D81?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/20%2C200-ORDERS_PROCESSED-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/120K-DOCS_INDEX--TESTED-CCFF00?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/68-PYTEST_TESTS-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<br/>
+
+## `> ls projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 CareerCompass AI
+<sub>`GENERATIVE AI` · HCLTech Odisha 2026 Sovereign AI Hackathon</sub>
+
+LLM-powered career guidance for engineering students, with Gemini prompts grounded by **RAG** to match roles across **16 role families and 6 branches**.
+
+- Sarvam AI voice + translation pipeline: **11 languages, Hinglish, 29 voices**
+- Document processing and interactive Plotly visualizations
+
+`Python` `Streamlit` `Gemini API` `Sarvam AI` `RAG` `Plotly` `PyPDF` `python-docx`
+
+**[→ Launch live demo](https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 Odia Named Entity Recognition
+<sub>`NLP` · Low-resource language · Agriculture</sub>
+
+Domain-aware NER for agricultural queries in Odia, built on **XLM-RoBERTa** fine-tuned over a **17K+ BIO-tagged dataset**.
+
+- **90.8% F1** and **97.3% accuracy**
+- Knowledge-base mapping layer resolves entities into structured data
+
+`Python` `XLM-RoBERTa` `Hugging Face` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `Kaggle`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ TraceGuard
+<sub>`BACKEND` · Exception tracking & AI-assisted incident analysis</sub>
+
+Java 21 / Spring Boot engine that groups recurring exceptions using **SHA-256 fingerprints** and PostgreSQL, targeting a 50%+ reduction in duplicate alerts.
+
+- Live incident updates via **SSE**
+- Gemini-powered diagnosis and patch suggestions
+- Dead-letter webhook replay, tested with JUnit 5 + MockMvc
+
+`Java 21` `Spring Boot 3.3` `JPA/Hibernate` `PostgreSQL` `React` `Tailwind` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 Employee Attendance & Analytics API
+<sub>`BACKEND` · FastAPI + MongoDB</sub>
+
+**12 FastAPI REST endpoints** for attendance tracking and analytics, powered by MongoDB aggregation pipelines with Pydantic validation.
+
+- Fixed **21 starter defects**
+- Tested unique indexes on **120K documents** with **68 pytest tests**
+
+`Python` `FastAPI` `MongoDB` `PyMongo` `Pydantic` `pytest` `mongomock`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Retail Orders ETL Pipeline
+<sub>`DATA ENGINEERING` · Data quality · CDC</sub>
+
+PySpark pipeline that cleans **20,200 orders**: quarantines **419 invalid rows**, removes **197 duplicates**, and writes **~19,600 clean orders** to partitioned Parquet.
+
+- CDC logic over **1,421 customer records**
+- Logging, Cron scheduling, run locking, **10 pytest tests**
+
+`PySpark` `SQL` `Parquet` `Pandas` `Bash` `Cron` `pytest`
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 GoPay Transaction Validation API
+<sub>`BACKEND` · Go</sub>
+
+REST endpoint that validates incoming transaction requests with four checks (**sender, receiver, amount, currency**) and returns predictable HTTP status codes and JSON errors.
+
+<sub>*A validation prototype, not a payment processor.*</sub>
+
+`Go` `net/http` `REST` `JSON` `Error Handling`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Library Management REST API
+<sub>`BACKEND` · Java + Spring Boot</sub>
+
+Layered REST API with **5 CRUD endpoints**, centralized error handling via `@RestControllerAdvice`, and Postman-validated behaviour across **25+ records**.
+
+`Java 17` `Spring Boot` `Spring Data JPA` `Hibernate` `H2` `Maven` `Postman`
+
+</td>
+<td width="50%" valign="top" align="center">
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEBANSH12&bg_color=080812&color=CCFF00&line=8B5CF6&point=FF3D81&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph"/>
+### 🔭 More on GitHub
 
-</div>
+<a href="https://github.com/DEBANSH12?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-CCFF00?style=for-the-badge&logo=github&logoColor=0D1117" alt="All repositories"/></a>
 
-<sub>Telemetry is generated by external services and may be cached, incomplete, or temporarily unavailable. Language statistics describe repository code, not overall proficiency.</sub>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## `03 // SELECTED.PROJECTS`
-
-### `PROJECT_001` — CareerCompass AI
-
-**AI-powered career guidance for engineering students**
+## `> cat stack.json`
 
 <div align="center">
 
-<a href="https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/"><img src="https://img.shields.io/badge/LAUNCH_LIVE_DEMO-CCFF00?style=for-the-badge&logo=streamlit&logoColor=080812" alt="Launch CareerCompass AI"/></a>
+**Languages**
 
-<img src="https://img.shields.io/badge/DOMAIN-GENERATIVE_AI-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/CONTEXT-HCLTECH_ODISHA_2026-FF3D81?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=python,java,go,cpp,js,ts,bash,powershell&theme=dark" alt="Languages"/>
+
+**Backend & Frontend**
+
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,react,nextjs,tailwind,html,css&theme=dark" alt="Backend and frontend"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="AI and ML"/>
+
+**Data & Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Databases"/>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,git,github,postman,selenium&theme=dark" alt="Cloud and DevOps"/>
 
 </div>
 
-**The problem:** Career guidance can be difficult to access when students need relevant pathways instead of generic job recommendations.
-
-**The build:** An LLM-powered guidance workflow using Streamlit, Google Gemini, and retrieval-augmented generation (RAG), integrated with Sarvam AI for voice and translation capabilities.
-
-**System capabilities**
-
-- Career guidance across **16 role families and 6 engineering branches**.
-- RAG-grounded prompting to support relevant career recommendations.
-- Voice and translation pipeline supporting **11 languages, Hinglish, and 29 voices**.
-- Document processing and interactive visualizations.
-
-**Tech stack**
-
-`Python` `Streamlit` `Google Gemini API` `Sarvam AI API` `RAG` `Plotly` `PyPDF` `python-docx` `JSON`
-
-**Why it matters:** Combines generative AI, retrieval, multilingual accessibility, and practical product development.
-
-[→ Open the live application](https://hcltechcareercompassai-dcb89vtyuckxsytaaudugx.streamlit.app/)
-
----
-
-### `PROJECT_002` — Odia Named Entity Recognition
-
-**Domain-aware NLP for agricultural queries in a low-resource language**
-
-<img src="https://img.shields.io/badge/DOMAIN-NLP-8B5CF6?style=flat-square" alt="NLP"/>
-<img src="https://img.shields.io/badge/LANGUAGE-ODIA-FF3D81?style=flat-square" alt="Odia language"/>
-
-**The challenge:** Extracting meaningful entities from unstructured regional-language queries requires models that handle language-specific context and limited training data.
-
-**The build**
-
-- Fine-tuned XLM-RoBERTa on a **17K+ BIO-tagged dataset**.
-- Achieved a reported **90.8% F1-score and 97.3% accuracy**.
-- Built a knowledge-base mapping layer to resolve extracted entities into structured data.
-- Focused on agricultural query processing in Odia.
-
-**Tech stack**
-
-`Python` `XLM-RoBERTa` `Hugging Face` `Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow` `Kaggle`
-
-**Why it matters:** Applies NLP to language accessibility and practical information extraction for a regional-language use case.
-
----
-
-### `PROJECT_003` — Retail Orders ETL Pipeline
-
-**Data quality · Batch processing · Change data capture**
-
-<img src="https://img.shields.io/badge/DOMAIN-DATA_ENGINEERING-CCFF00?style=flat-square&labelColor=080812" alt="Data engineering"/>
-<img src="https://img.shields.io/badge/PROCESSING-PYSPARK-8B5CF6?style=flat-square" alt="PySpark"/>
-
-#### Pipeline metrics
-
-| Processing stage | Result |
-|:--|--:|
-| Orders processed | 20,200 |
-| Invalid rows quarantined | 419 |
-| Duplicate rows removed | 197 |
-| Clean orders written | ~19,600 |
-| Customer records used for CDC | 1,421 |
-| Automated tests | 10 pytest tests |
-
-**The build**
-
-- Built a PySpark ETL pipeline for data processing and cleansing.
-- Quarantined invalid records and removed duplicates.
-- Wrote cleaned output to partitioned Parquet.
-- Implemented change data capture (CDC) logic for customer data.
-- Added logging, Cron execution, run locking, and automated tests.
-
-**Tech stack**
-
-`Python` `PySpark` `SQL` `Parquet` `Pandas` `Bash` `Cron` `pytest` `Git`
-
-**Why it matters:** Demonstrates practical data engineering with an emphasis on data quality, repeatable execution, incremental change handling, and testing.
-
----
-
-### `PROJECT_004` — GoPay Transaction Validation API
-
-**A Go-based API for validating incoming transaction requests**
-
-<img src="https://img.shields.io/badge/DOMAIN-BACKEND_ENGINEERING-8B5CF6?style=flat-square" alt="Backend engineering"/>
-<img src="https://img.shields.io/badge/LANGUAGE-GO-00ADD8?style=flat-square" alt="Go"/>
-
-**The build**
-
-- Developed a REST endpoint for transaction-request validation.
-- Implemented four validation checks: sender, receiver, amount, and currency.
-- Handled invalid inputs using HTTP status codes and JSON responses.
-- Focused on request validation and predictable API behaviour.
-
-**Tech stack**
-
-`Go` `net/http` `REST APIs` `JSON` `Input Validation` `Error Handling` `Git`
-
-**Engineering scope:** A transaction-validation prototype, not a production payment processor. It does not itself transfer funds or implement a complete payment-security system.
-
----
-
-### `PROJECT_005` — Library Management REST API
-
-**Layered backend architecture with Java and Spring Boot**
-
-<img src="https://img.shields.io/badge/DOMAIN-BACKEND-8B5CF6?style=flat-square" alt="Backend"/>
-<img src="https://img.shields.io/badge/TESTING-POSTMAN-FF3D81?style=flat-square" alt="Postman testing"/>
-
-**The build**
-
-- Designed a layered REST API with **5 CRUD endpoints**.
-- Implemented centralized exception handling with `RestControllerAdvice`.
-- Tested success, not-found, and validation-failure scenarios.
-- Validated API behaviour across **25+ records** using Postman.
-
-**Tech stack**
-
-`Java 17` `Spring Boot` `Spring Data JPA` `Hibernate` `H2 Database` `Maven` `Postman`
-
-**Why it matters:** Demonstrates backend fundamentals, persistence-layer integration, API testing, and structured error handling.
-
----
-
-## `04 // ENGINEERING.ARSENAL`
-
-### Programming languages
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,java,go,cpp,js,ts,bash,powershell&theme=dark" alt="Programming language icons"/>
-</div>
-
-`Python` · `Java` · `Go` · `SQL` · `Bash` · `JavaScript` · `TypeScript` · `PowerShell` · `C++`
-
-### Backend and APIs
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,spring,django,flask&theme=dark" alt="Backend framework icons"/>
-</div>
-
-`FastAPI` · `Spring Boot` · `Spring Data JPA` · `Django` · `Flask` · `Hibernate` · `Pydantic` · `REST APIs`
-
-### AI, ML and LLM applications
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="Machine learning icons"/>
-</div>
-
-`LLM Applications` · `RAG` · `Prompt Engineering` · `LangChain` · `MCP` · `Gemini API` · `OpenAI API` · `Hugging Face` · `XLM-RoBERTa` · `STT` · `TTS` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `TensorFlow`
-
-### Data engineering and databases
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" alt="Database icons"/>
-</div>
-
-`PySpark` · `ETL Pipelines` · `CDC` · `Parquet` · `Batch Processing` · `Data Validation` · `Schema Design` · `Indexing` · `PostgreSQL` · `MySQL` · `MongoDB` · `Oracle`
-
-### Frontend development
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend icons"/>
-</div>
-
-`React` · `Next.js` · `Tailwind CSS` · `HTML5` · `CSS3`
-
-### Cloud, DevOps and tooling
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,linux,git,github&theme=dark" alt="Cloud and DevOps icons"/>
-</div>
-
-`AWS EC2/S3/IAM/RDS` · `Azure Fundamentals` · `Docker` · `Kubernetes` · `Terraform` · `Jenkins CI/CD` · `Linux` · `Git` · `GitHub`
-
-### Testing and CS fundamentals
-
-`pytest` · `JUnit` · `Postman` · `Selenium` · `Unit Testing` · `API Testing` · `Regression Testing` · `Data Structures & Algorithms` · `OOP` · `Operating Systems` · `Computer Networks` · `SDLC` · `Agile`
-
----
-
-## `05 // EXPERIENCE.LOG`
-
-### Content Curator Intern — BetterLearning.ai
-
-<sub>Modal Technologies Pvt. Ltd. · Remote · June–July 2026</sub>
-
-- Reviewed and corrected errors in **15+ technical learning modules per sprint**.
-- Identified and corrected issues in technical datasets using reviewer feedback.
-- Contributed to a reported **50% reduction in errors**.
-- Worked within a small Agile team and a feedback-driven review process.
-
-`Technical Content Validation` `Data Accuracy` `Quality Assurance` `Agile Collaboration`
-
----
-
-## `06 // ACHIEVEMENTS.UNLOCKED`
+<details open>
+<summary><b>Full skill matrix</b></summary>
+<br/>
+
+| Domain | Technologies |
+|:--|:--|
+| **Languages** | Python · Java · SQL · Bash · JavaScript · TypeScript · PowerShell · C++ |
+| **Backend & APIs** | Spring Boot · Spring MVC · Spring Data JPA · Hibernate · FastAPI · Django/Flask · REST APIs · Spring RestClient · SSE · Pydantic |
+| **Frontend** | React · Next.js · Tailwind CSS · HTML5 · CSS3 |
+| **AI / ML** | LLM Applications · RAG · Prompt Engineering · LangChain · MCP · Gemini API · OpenAI API · Hugging Face · STT · TTS · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy |
+| **AI dev tools** | GitHub Copilot · Claude Code · Codex |
+| **Data Engineering** | PySpark · ETL Pipelines · CDC · Parquet · Batch Processing · Data Validation |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Oracle · Schema Design · Indexing |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM, RDS) · Azure Fundamentals · Docker · Kubernetes · Terraform · Jenkins CI/CD · Linux · Git/GitHub |
+| **Testing** | JUnit 5 · MockMvc · pytest · Postman · Selenium · Unit / API / Regression Testing |
+| **CS Fundamentals** | Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · SDLC · Agile |
+
+</details>
+
+<br/>
+
+## `> pipeline --what-i-build`
+
+```mermaid
+flowchart LR
+    A[Raw Data] -->|PySpark ETL + CDC| B[(Clean Data<br/>Parquet / SQL / MongoDB)]
+    B -->|Spring Boot / FastAPI / Go| C[REST APIs]
+    C -->|RAG + LLMs + NLP| D[AI Features]
+    D -->|Voice + Translation| E[Users]
+    style A fill:#0D1117,stroke:#CCFF00,color:#CCFF00
+    style B fill:#0D1117,stroke:#8B5CF6,color:#fff
+    style C fill:#0D1117,stroke:#00D9FF,color:#fff
+    style D fill:#0D1117,stroke:#FF3D81,color:#fff
+    style E fill:#0D1117,stroke:#CCFF00,color:#CCFF00
+```
+
+<br/>
+
+## `> git log --experience`
+
+<table>
+<tr>
+<td>
+
+**Content Curator Intern** · [BetterLearning.ai](https://betterlearning.ai) *(Modal Technologies Pvt. Ltd.)*
+<sub>Remote · June – July 2026</sub>
+
+- Reviewed and fixed errors in **15+ technical learning modules every sprint** within a small Agile team
+- Corrected mistakes in technical datasets using reviewer feedback, contributing to a **50% error reduction**
+
+`Technical Validation` `Data Accuracy` `Quality Assurance` `Agile`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> achievements --unlocked`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SOA_ITER-TOP_10%25_OF_1000%2B-CCFF00?style=for-the-badge&labelColor=080812" alt="Top 10 percent in DevOps Internals"/>
-<img src="https://img.shields.io/badge/HCLTECH-ODISHA_HACKATHON_SHORTLIST-8B5CF6?style=for-the-badge&labelColor=080812" alt="HCLTech hackathon shortlist"/>
-<img src="https://img.shields.io/badge/MYANATOMY-GRADE_A-FF3D81?style=for-the-badge&labelColor=080812" alt="MyAnatomy Grade A"/>
+<img src="https://img.shields.io/badge/SOA_ITER-TOP_10%25_OF_1000%2B-CCFF00?style=for-the-badge&logo=trophy&logoColor=0D1117" alt="Top 10 percent"/>
+<img src="https://img.shields.io/badge/HCLTUQBNOrnQlzo3ftqm0Jj5Sf9zEHlPApapd-rWsAHREzkweiTw?style=for-the-badge&labelColor=0D1117" alt="HCLTech shortlist"/>
+<img src="https://img.shields.io/badge/MYANATOMY-GRADE_A_NATIONAL_TEST-FF3D81?style=for-the-badge&labelColor=0D1117" alt="MyAnatomy Grade A"/>
 
 </div>
 
-- Ranked in the **top 10% of 1,000+ candidates** in SOA ITER's DevOps Internals Program.
-- Shortlisted among **200+ candidates across Odisha** for the HCLTech 2026 GET Sovereign AI Hackathon.
-- Secured **Grade A** in the MyAnatomy National Competence & Employability Test.
+- 🏆 Ranked **top 10% of 1,000+ candidates** in SOA ITER's DevOps Internals Program
+- 🚀 Shortlisted among **200+ candidates across Odisha** for the HCLTech 2026 GET Sovereign AI Hackathon
+- 🎯 Secured **Grade A** in the MyAnatomy National Competence & Employability Test
 
----
+<br/>
 
-## `07 // CERTIFICATION.VAULT`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ORACLE-Agentic_AI_Foundations_Associate-CCFF00?style=for-the-badge&labelColor=080812" alt="Oracle Agentic AI Foundations Associate"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/HACKERRANK-Python_Basic-8B5CF6?style=for-the-badge&labelColor=080812" alt="HackerRank Python Basic"/>
-<img src="https://img.shields.io/badge/HACKERRANK-Java_Basic-FF3D81?style=for-the-badge&labelColor=080812" alt="HackerRank Java Basic"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/SOA_ITER-DevOps_Internals-00D9FF?style=for-the-badge&labelColor=080812" alt="SOA ITER DevOps Internals"/>
-
-</div>
+## `> certifications --verify`
 
 | Certification | Issuer | Year |
-|:--|:--|--:|
-| Agentic AI Foundations Associate | Oracle | 2026 |
-| Python Basic | HackerRank | 2026 |
-| Java Basic | HackerRank | 2024 |
-| DevOps Internals | SOA University / ITER | 2025 |
+|:--|:--|:-:|
+| 🤖 Agentic AI Foundations Associate | Oracle | 2026 |
+| 🐍 Python Basic | HackerRank | 2026 |
+| ☕ Java Basic | HackerRank | 2024 |
+| ⚙️ DevOps Internals | SOA University / ITER | 2025 |
 
----
+<br/>
 
-## `08 // CURRENT.DIRECTION`
+## `> github --telemetry`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DEBANSH12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CCFF00&icon_color=8B5CF6&text_color=C9D1D9&ring_color=FF3D81&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEBANSH12&layout=compact&hide_border=true&bg_color=0D1117&title_color=CCFF00&text_color=C9D1D9&langs_count=8" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=DEBANSH12&hide_border=true&background=0D1117&ring=CCFF00&fire=FF3D81&currStreakLabel=CCFF00&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777788" alt="Streak"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEBANSH12&bg_color=0D1117&color=CCFF00&line=8B5CF6&point=FF3D81&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DEBANSH12&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+<sub>Stats are rendered by third-party services and may be cached or briefly unavailable. Language stats reflect repository code, not overall proficiency.</sub>
+
+<br/>
+
+## `> cat roadmap.txt`
 
 ```text
-[01] Strengthening backend engineering and API design
-[02] Building practical AI and LLM-powered applications
+[01] Deepening backend engineering and API design
+[02] Shipping practical AI and LLM-powered applications
 [03] Improving data pipeline reliability and data quality
 [04] Expanding cloud, testing, and deployment experience
 [05] Turning projects into maintainable, well-documented software
 ```
 
-I'm interested in opportunities where I can contribute to real engineering work, learn from experienced teams, and keep growing across backend systems, applied AI, and data engineering.
-
----
-
-## `09 // CONNECT.TO_OPERATOR`
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=footer&color=0:CCFF00,50:8B5CF6,100:FF3D81" width="100%" alt="Neon gradient divider"/>
+## ⚡ LET'S BUILD SOMETHING THAT MATTERS
 
-<br/>
+*AI-powered ideas. Reliable backends. Data that makes sense.*
 
-<h2>⚡ LET'S BUILD SOMETHING THAT MATTERS.</h2>
+<a href="https://debansh12.github.io/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-CCFF00?style=for-the-badge&labelColor=0D1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LET'S_CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-FF3D81?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
 
-<p>AI-powered ideas. Reliable backends. Data that makes sense.</p>
-
-<br/>
-
-<a href="https://debansh12.github.io/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-CCFF00?style=for-the-badge&labelColor=080812" alt="Explore my work"/></a>
-<a href="https://www.linkedin.com/in/debansh-panda-86645327a/"><img src="https://img.shields.io/badge/LET'S_CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080812" alt="Connect on LinkedIn"/></a>
-<a href="mailto:pandadebansh@gmail.com"><img src="https://img.shields.io/badge/SEND_A_SIGNAL-FF3D81?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080812" alt="Send an email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8B5CF6,50:FF3D81,100:CCFF00" width="100%" alt="Neon gradient footer wave"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF3D81,50:2A1B5E,100:0D1117" alt="Footer wave"/>
 
 <sub>DESIGNED IN THE TERMINAL · BUILT ONE COMMIT AT A TIME</sub>
-
-<br/><br/>
-
-<a href="https://github.com/DEBANSH12"><img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-CCFF00?style=flat-square&labelColor=080812" alt="Built with curiosity"/></a>
 
 </div>
